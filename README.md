@@ -23,7 +23,7 @@ I am passionate and drivenstudent pursuing Bachelor's of technology in computer 
 - 🔭 Simultaneously exploring <b>cloud computing</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Core Subjects**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **kritigaur177@gmail.com** && **kritigaurfamily@gmail.com**
+- 📫 Reach me at : **kritigaur177@gmail.com** 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ As a student, my goal is to cultivate a supportive community where fellow learners can access the resources and guidance needed to navigate the dynamic world of technology. Together, we'll build a foundation for success, embracing innovation and collaboration every step of the way.</br>
 
