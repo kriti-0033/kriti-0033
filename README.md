@@ -7,11 +7,16 @@
 
 ### Hi there, I'm [Kriti Gaur](https://www.linkedin.com/in/kriti-gaur-098268228/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am passionate and drivenstudent pursuing Bachelor's of technology in computer science and engineering with a keen interest in software development and tecchnology.Currently on a lookout for excciting internship opportunitites to kickstart my career journey in tech world. 🚀 I thrive on challenges and am constantly seeking to expand my skills in python, java, javascript, django,sql,Nosql while exploring new technologies like Scikit-learn for machine learning . As a quick learner, I'm eager to dive deep into real-world projects and contribute meaningfully to innovative solutions.
+🚀 Technology Enthusiast | Research-Oriented Learner | Software Developer
 
+I am an M.Tech Computer Science student @Banasthali Vidyapith with a strong passion for innovation, problem-solving, and emerging technologies. My interests lie at the intersection of Artificial Intelligence, Explainable AI (XAI), Real-Time Systems, Software Engineering, DevOps, and Cloud Computing.
 
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in "Devops developer" and "Cloud Computing". )}
+Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, conducting research, and developing impactful solutions. My academic journey includes research in Explainable AI for Healthcare and Real-Time Systems, alongside hands-on experience in building web applications and technology-driven projects.
+
+☁️ Currently Exploring: DevOps, Cloud Platforms, Automation, CI/CD Pipelines, System Design, and Scalable Architectures
+
+🌱 Committed to continuous learning, innovation, and leveraging technology to create meaningful real-world impact.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-0033&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
