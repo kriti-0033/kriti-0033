@@ -9,7 +9,7 @@
 
 🚀 Technology Enthusiast | Research-Oriented Learner | Software Developer
 
-I am an M.Tech Computer Science student @Banasthali Vidyapith with a strong passion for innovation, problem-solving, and emerging technologies. My interests lie at the intersection of Artificial Intelligence, Explainable AI (XAI), Real-Time Systems, Software Engineering, DevOps, and Cloud Computing.
+I am a M.Tech Computer Science student @Banasthali Vidyapith with a strong passion for innovation, problem-solving, and emerging technologies. My interests lie at the intersection of Artificial Intelligence, Explainable AI (XAI), Real-Time Systems, Software Engineering, DevOps, and Cloud Computing.
 
 Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, conducting research, and developing impactful solutions. My academic journey includes research in Explainable AI for Healthcare and Real-Time Systems, alongside hands-on experience in building web applications and technology-driven projects.
 
@@ -64,7 +64,7 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
  📆 Jan,2025 - July,2025
 📍 **Dr. Mudhiwalla Healthcare website** -  India
 
- -  👨‍💻 **Macjine Learning Trainee**---------------------------< Internship >\
+ -  👨‍💻 **Machine Learning Trainee**---------------------------< Internship >\
  📆 February,2024 - June,2024
 📍 **Edunet Foundation** -  India
 
