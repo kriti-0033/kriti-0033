@@ -24,10 +24,9 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/Kriti_0033/)
 
-- 🌱 Exploring <b>DeepLearning</b>, <b>AI</b>,<b>Intelligent systems</b>
-- 🔭 Simultaneously exploring <b>cloud computing</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Core Subjects**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 Exploring <b>DeepLearning</b>, <b>AI</b>, <b>Intelligent systems</b>
+- 🔭 Simultaneously exploring <b>cloud computing</b> and <b>DevOps Technologies</b>
+- 💻 Interested in <b>Development</b> and <b>Research</b>
 - 📫 Reach me at : **kritigaur177@gmail.com** 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ As a student, my goal is to cultivate a supportive community where fellow learners can access the resources and guidance needed to navigate the dynamic world of technology. Together, we'll build a foundation for success, embracing innovation and collaboration every step of the way.</br>
