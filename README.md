@@ -29,16 +29,16 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
 - 💻 Interested in <b>Development</b> and <b>Research</b>
 - 📫 Reach me at : **kritigaur177@gmail.com** 
 - ⚡ Fun fact: I enjoy exploring new technologies as much as exploring new places.
-- ❤️❤️ As a student, I believe curiosity is the foundation of learning. Guided by curiosity, I am committed to continuous learning and exploration.</br>
+- ❤️ As a student, I believe curiosity is the foundation of learning. Guided by curiosity, I am committed to continuous learning and exploration.</br>
 
 ### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Computer Vision
+- Artificial Intelligence
+- Augmented Reality(AR) & Virtual Reality(VR)
+- Human Computer Interaction
+- Future Technologies
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
