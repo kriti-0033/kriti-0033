@@ -40,18 +40,13 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
 - Human Computer Interaction
 - Future Technologies
 
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
-
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
 <details>
    <summary>📃 Resume</summary>
 
  ## Education
+  - 📍 **Banasthali Vidyapith**-----------------------**< 2025-2027 >**\
+ 📖**Master's of technology-< Computer Science >**
+ 
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
  📖**Bachelor's of technology-< Computer Science Engineering >**
  
@@ -65,8 +60,16 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
    
    
  ## Experience
+  -  👨‍💻 **Full-Stack Developer**---------------------------< Freelancing >\
+ 📆 Jan,2025 - July,2025
+📍 **Dr. Mudhiwalla Healthcare website** -  India
+
+ -  👨‍💻 **Macjine Learning Trainee**---------------------------< Internship >\
+ 📆 February,2024 - June,2024
+📍 **Edunet Foundation** -  India
+
  -  👨‍💻 **Front-end Developer**---------------------------< Internship >\
- 📆 July,2023 - August,2022
+ 📆 July,2023 - August,2023
 📍 **IBM SkillBuild Program(AICTE)** -  India
    
  -  👨‍💻 **Software Development**----------------------< Internship >\
