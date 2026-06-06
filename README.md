@@ -24,7 +24,7 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/Kriti_0033/)
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
+- 🌱 Exploring <b>DeepLearning</b>, <b>AI</b>,<b>Intelligent systems</b>
 - 🔭 Simultaneously exploring <b>cloud computing</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Core Subjects**
 - 👯 I’m looking to collaborate on **Open Source Projects**
