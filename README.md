@@ -28,9 +28,8 @@ Driven by curiosity and a growth mindset, I enjoy exploring complex challenges, 
 - 🔭 Simultaneously exploring <b>cloud computing</b> and <b>DevOps Technologies</b>
 - 💻 Interested in <b>Development</b> and <b>Research</b>
 - 📫 Reach me at : **kritigaur177@gmail.com** 
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ As a student, my goal is to cultivate a supportive community where fellow learners can access the resources and guidance needed to navigate the dynamic world of technology. Together, we'll build a foundation for success, embracing innovation and collaboration every step of the way.</br>
-
+- ⚡ Fun fact: I enjoy exploring new technologies as much as exploring new places.
+- ❤️❤️ As a student, I believe curiosity is the foundation of learning. Guided by curiosity, I am committed to continuous learning and exploration.</br>
 
 ### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
